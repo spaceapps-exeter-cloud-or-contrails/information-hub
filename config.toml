@@ -1,0 +1,22 @@
+BaseUrl= "http://cloudorcontrail.co/"
+LanguageCode= "en-US"
+Title= "Cloud or contrail"
+paginate = 5
+DisqusShortname = ""
+Copyright = "SpaceApps Challenge 2016"
+canonifyurls = true
+
+[params]
+  description = "Cloud or contrail progress for a mobile app"
+  cover = "images/20160423_143900.jpg"
+  author = "spaceapps-exeter"
+  authorlocation = "United Kingdom"
+  authorwebsite = "https://github.com/spaceapps-exeter-cloud-or-contrails"
+  bio= ""
+  logo = "images/logo.jpg"
+  googleAnalyticsUserID = ""  
+  RSSLink = ""
+  githubName = "spaceapps-exeter-cloud-or-contrails"
+  twitterName = "SpaceAppsExeter"  
+  hideHUGOSupport = true
+
